@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, C++, Java, Swift, Rust, SQL, HTML, CSS  
+**Languages:** C++,C#,JavaScript, TypeScript, Python, Java, Swift, Rust, SQL, HTML, CSS  
 **Frameworks/Tools:** React, Node.js, Express, Flask, Unity, Git, Firebase, Expo  
 **Concepts:** REST APIs, OAuth 2.0, Agile Development, Database Design, Scalable Architecture  
 **Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud

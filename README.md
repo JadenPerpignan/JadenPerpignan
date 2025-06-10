@@ -6,10 +6,10 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** C++, C#, Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS, Swift, Kotlin, Rust
-                  **Frameworks/Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase  
+**Languages:** C++, C#, Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS, Swift, Kotlin <br>
+**Frameworks/Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase  
 **Concepts:** REST APIs, OAuth 2.0, Agile Development, Database Design, Scalable Architecture  
-**Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud
+**Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud, Microsoft Office
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -40,6 +40,13 @@
 🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design
 
 ---
+
+## 🎯 Interests
+
+Game Development · Music Production · Artificial Intelligence · Cars · Emerging Technology · Financial Literacy · Volunteer Work
+
+---
+
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadenperpignan)

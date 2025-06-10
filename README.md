@@ -4,15 +4,6 @@
 💻 Full-Stack Software Engineer with a passion for building scalable, user-focused digital experiences  
 🌍 Based in Brooklyn, NY & Atlanta, GA
 
----
-
-## 🔧 Current Projects
-
-🚀 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud  
-🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:** C++,C#,JavaScript, TypeScript, Python, Java, Swift, Rust, SQL, HTML, CSS  
@@ -44,6 +35,12 @@
 
 ---
 
+## 🔧 Current Projects
+
+🚀 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud  
+🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design
+
+---
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadenperpignan)

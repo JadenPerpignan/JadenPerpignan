@@ -20,8 +20,6 @@
 **Concepts:** REST APIs, OAuth 2.0, Agile Development, Database Design, Scalable Architecture  
 **Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud
 
-## 🛠 Tech Stack & Tools
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -31,10 +29,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-
 
 ---
 
@@ -48,8 +42,9 @@
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jadenperpignan)  
-- 📧 perpignanj13@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadenperpignan)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JadenPerpignan)
+📧 perpignanj13@gmail.com
 
 ---
 

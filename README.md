@@ -8,7 +8,7 @@
 
 **Languages:** C++, C#, Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS, Swift, Kotlin <br>
 **Frameworks/Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase  
-**Concepts:** REST APIs, OAuth 2.0, Agile Development, Database Design, Scalable Architecture  
+**Concepts:** OAuth 2.0, REST APIs, JSON, Agile Development, Database Design, Version Control  
 **Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud, Microsoft Office
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -38,6 +38,33 @@
 
 🚀 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud  
 🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design
+
+---
+
+## 🧰 Currently Using
+
+- 🖥️ **IDE:** Cursor (AI-Powered)  
+- 💻 **Terminal:** Ghostty – minimal, modern, and fast
+## ⚙️ Dev Setup
+
+![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Cursor](https://img.shields.io/badge/IDE-Cursor-blueviolet?style=flat)
+![Ghostty](https://img.shields.io/badge/Terminal-Ghostty-7D7D7D?style=flat)
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Full-Stack Developer Path on **Codecademy**  
+- Expanding deeper into **TypeScript**, **backend architecture**, and **testing practices**
+
+![Codecademy](https://img.shields.io/badge/Learning-Codecademy-1F4056?style=flat&logo=codecademy&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Backend](https://img.shields.io/badge/-Backend_Architecture-grey?style=flat)
+![Testing](https://img.shields.io/badge/-Testing_Practices-lightgrey?style=flat)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX_Design-FF6F61?style=flat)
 
 ---
 

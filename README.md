@@ -42,7 +42,7 @@
 ---
 
 ## 🧰 Current Dev Setup
--🍎**OS:** MacOS
+- 🍎**OS:** MacOS
 - 🖥️ **IDE:** Cursor (AI-Powered)  
 - 💻 **Terminal:** Ghostty – minimal, modern, and fast
 - 🎸**Music:** Spotify (Good Algorithim)

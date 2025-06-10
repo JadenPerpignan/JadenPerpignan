@@ -41,15 +41,15 @@
 
 ---
 
-## 🧰 Currently Using
-
+## 🧰 Current Dev Setup
+-🍎**OS:** MacOS
 - 🖥️ **IDE:** Cursor (AI-Powered)  
 - 💻 **Terminal:** Ghostty – minimal, modern, and fast
-## ⚙️ Dev Setup
+- 🎸**Music:** Spotify (Good Algorithim)
 
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Cursor](https://img.shields.io/badge/IDE-Cursor-blueviolet?style=flat)
-![Ghostty](https://img.shields.io/badge/Terminal-Ghostty-7D7D7D?style=flat)
+![Cursor](https://img.shields.io/badge/IDE-Cursor-1C1C1C?style=flat&logo=vercel&logoColor=white)
+![Ghostty](https://img.shields.io/badge/Terminal-Ghostty-223D7E?style=flat&logo=ghost&logoColor=white)
 ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
 
 ---
@@ -57,7 +57,7 @@
 ## 📚 Currently Learning
 
 - Full-Stack Developer Path on **Codecademy**  
-- Expanding deeper into **TypeScript**, **backend architecture**, and **testing practices**
+- Expanding deeper into **frontend architecture**, **TypeScript**, **backend architecture**, and **testing practices**
 
 ![Codecademy](https://img.shields.io/badge/Learning-Codecademy-1F4056?style=flat&logo=codecademy&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

@@ -44,7 +44,7 @@
 ## 🧰 Current Dev Setup
 - 🍎**OS:** MacOS
 - 🖥️ **IDE:** Cursor (AI-Powered)  
-- 💻 **Terminal:** Ghostty – minimal, modern, and fast
+- 💻 **Terminal:** Ghostty (minimal, modern, and fast)
 - 🎸**Music:** Spotify (Good Algorithim)
 
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)

@@ -7,9 +7,9 @@
 ## 🛠 Tech Stack
 
 **Languages:** C++, C#, Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS, Swift, Kotlin <br>
-**Web & App Development Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase 
-**AI & ML Tools:** TensorFlow · NumPy · scikit-learn · OpenAI API · Recommender Systems 
-**Concepts:** OAuth 2.0, REST APIs, JSON, Agile Development, Database Design, Version Control  
+**Web & App Development Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase <br>
+**AI & ML Tools:** TensorFlow · NumPy · scikit-learn · OpenAI API · Recommender Systems <br>
+**Concepts:** OAuth 2.0, REST APIs, JSON, Agile Development, Database Design, Version Control  <br>
 **Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud, Microsoft Office
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)

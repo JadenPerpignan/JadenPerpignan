@@ -7,7 +7,8 @@
 ## 🛠 Tech Stack
 
 **Languages:** C++, C#, Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS, Swift, Kotlin <br>
-**Frameworks/Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase  
+**Web & App Development Tools:** React, Node.js, Express, Flask, Unity, Expo, Git, Firebase 
+**AI & ML Tools:** TensorFlow · NumPy · scikit-learn · OpenAI API · Recommender Systems 
 **Concepts:** OAuth 2.0, REST APIs, JSON, Agile Development, Database Design, Version Control  
 **Dev Environments:** VS Code, JetBrains IDEs, Xcode, Unity Editor, Adobe Creative Cloud, Microsoft Office
 
@@ -36,7 +37,7 @@
 
 ## 🔧 Current Projects
 
-🚀 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud  
+- 🎧 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud with AI-driven playlist and aesthetic generation.  
 🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design
 
 ---

@@ -37,9 +37,9 @@
 
 ## 🔧 Current Projects
 
-- 🎧 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud with AI-driven playlist and aesthetic generation.  
+🎧 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud with AI-driven playlist and aesthetic generation.  
 🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design
-
+🔐 **Neatly** – For men who move with intent. A modern web app for safe, smart dating with anonymous forums, red flag alerts, and community insights. Built with Next.js 14, Tailwind CSS, Shadcn/ui, and Prisma.
 ---
 
 ## 🧰 Current Dev Setup

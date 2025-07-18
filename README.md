@@ -35,7 +35,7 @@
 
 ---
 
-## 🔧 Current Projects
+## 🔧 Current Projects <br>
 
 - 🎧 **Ora.fm** – A cross-platform music sync app (React Native, TypeScript, OAuth 2.0) that integrates Spotify, Apple Music & SoundCloud with AI-driven playlist and aesthetic generation.  
 - 🎮 **Echoforge** – A 2D monster-collecting RPG built in Unity with custom battle logic, rarity systems, and terrain-aware encounter design

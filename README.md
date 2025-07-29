@@ -32,6 +32,7 @@
 - 🧠 Interned at **Estée Lauder** as an Online Engineer, helping unify backend infrastructure across 25+ brands  
 - 📈 Consulted via the **IBM Accelerate Program**, focusing on digital transformation and technical strategy  
 - 🤝 Mentored through **Microsoft’s Tech Initiative**, solving real-world software challenges
+- 🧠 Co-founded Blackthorn Creative, leading all things tech—web dev, SEO, internal systems, and client tools—to help brands scale smarter.
 
 ---
 

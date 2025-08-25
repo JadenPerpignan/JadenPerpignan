@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jaden Perpignan
 
-💻 Full-Stack Software Engineer with a passion for building scalable, user-focused digital experiences
+💻 Full-Stack Software Engineer with a passion for building scalable, user-focused digital experiences <br>
 🎓 Computer Science graduate from Morehouse College    
 🌍 Based in Brooklyn, NY & Atlanta, GA
 

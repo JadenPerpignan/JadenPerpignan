@@ -84,3 +84,4 @@ Game Development · Music Production · Artificial Intelligence · Cars · Emerg
 ---
 
 *“Bridging code and creativity to build what’s next."*
+*https://jadenperpignan.dev*
